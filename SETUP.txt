@@ -1,0 +1,1 @@
+Install Node.js and pnpm. Configure your own .env.local with Supabase credentials. Run pnpm install and pnpm dev. Apply the Phase 5 migration before using Decision Support.
